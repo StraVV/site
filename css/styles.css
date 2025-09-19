@@ -98,7 +98,7 @@ input[type="radio"].visually-hidden {
 
 .featured-list-image {
   display: block;
-  background-color: #e9f0fd;
+  background-color: black;
 }
 
 .featured_list:hover .featured-list-bottom {
